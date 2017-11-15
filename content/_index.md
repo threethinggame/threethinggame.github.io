@@ -1,2 +1,5 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+This is the main website for the magnificent, marvelous, mad, mad, mad, mad, Three Thing Game.
+
+Find out more here: [About](page/about)
+
+#threethinggame
