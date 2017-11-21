@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Footage on Three Thing Game</title>
+    <link>https://threethinggame.github.io/tags/footage/</link>
+    <description>Recent content in Footage on Three Thing Game</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://threethinggame.github.io/tags/footage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compilation footage of The Event</title>
+      <link>https://threethinggame.github.io/post/2017-11-17-three-thing-game-event-video/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2017-11-17-three-thing-game-event-video/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Sgw5svcEKCs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The most recent Three Thing Game (3rd and 4th November 2017) has been and gone and it was great again to see so many people take part. Above is a video that the University Digital team put together with footage across the 24 hours. Are you on it?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
