@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winners on Three Thing Game</title>
+    <link>https://threethinggame.github.io/tags/winners/</link>
+    <description>Recent content in Winners on Three Thing Game</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://threethinggame.github.io/tags/winners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Fizzyo Games</title>
+      <link>https://threethinggame.github.io/post/2017-05-12-the-fizzyo-event/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2017-05-12-the-fizzyo-event/</guid>
+      <description>&lt;p&gt;bigimg: [{src: &amp;ldquo;/img/170512event/labfull.jpg&amp;rdquo;, desc: &amp;ldquo;Lab full of jammers&amp;rdquo;}]
+This time we ran a competition sub-category for games that make use of the #fizzyo device: &lt;a href=&#34;https://github.com/Fizzyo/fizzyo-challenge&#34;&gt;https://github.com/Fizzyo/fizzyo-challenge&lt;/a&gt;. In summary, it is a device that measures breath output, and is used for Cystic Fibrosis patients as part of their physio programme. What does that have to do with a game jam you may ask? Well, I am glad you asked, because these devices can be represented as a single axis joystick (plus button) and so can be used as a control input for games. There is a framework and examples to allow you to use the devices with Monogame or Unity. The idea is that we can make games that encourages (in particular) younger physio patients to complete their physio and using the correct technique. Lee Stott from Microsoft gave a great talk on why it is so important to do things to help cystic fibrosis sufferers and the #fizzyo project for games.
+
+bigimg: [{src: &amp;ldquo;/img/170512event/simonpresents.jpg&amp;rdquo;, desc: &amp;ldquo;Simon Jackson presents about using the Fizzyo device with Monogame and Unity&amp;rdquo;}]
+We also had a guest talk from Simon Jackson, a professional software developer with long time experience with Monogame and Unity and intimate knowledge of the workings of the #fizzyo device.
+bigimg: [{src: &amp;ldquo;/img/170512event/pizza.jpg&amp;rdquo;, desc: &amp;ldquo;Look at all that food!&amp;rdquo;}]
+This mountain of pizza was sponsored by APD Communications, a local employer of our students. They also sent a team of developers (former graduates of ours) to relive the glory days and take part in the hackathon.
+bigimg: [{src: &amp;ldquo;/img/170512event/finale.jpg&amp;rdquo;, desc: &amp;ldquo;Lab full of jammers&amp;rdquo;}]
+In the end a mixture of tired contestants and eager judges gathered for the final judging and there really were some great games made!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
