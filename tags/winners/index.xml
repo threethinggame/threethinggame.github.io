@@ -1,40 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Three Thing Game</title>
-    <link>https://threethinggame.github.io/</link>
-    <description>Recent content on Three Thing Game</description>
+    <title>Winners on Three Thing Game</title>
+    <link>https://threethinggame.github.io/tags/winners/</link>
+    <description>Recent content in Winners on Three Thing Game</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://threethinggame.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://threethinggame.github.io/tags/winners/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Last Three Thing Game</title>
-      <link>https://threethinggame.github.io/post/2017-10-08-last-three-thing-game/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.github.io/post/2017-10-08-last-three-thing-game/</guid>
-      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/BXMhfqmfQGw?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Another in the line music covers to entice the masses to Three Thing Game. This is for the 3rd and 4th November 2017  event.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Three Thingian Gamesody</title>
-      <link>https://threethinggame.github.io/post/2017-04-21-three-thingian-gamesody/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.github.io/post/2017-04-21-three-thingian-gamesody/</guid>
-      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/2p2TL5aNhlI?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The first (of many?) music covers to entice the masses to Three Thing Game. This is for the 12th and 13th May 2017  event.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>The Fizzyo Games</title>
@@ -51,15 +25,6 @@ bigimg: [{src: &amp;ldquo;/img/170512event/pizza.jpg&amp;rdquo;, desc: &amp;ldqu
 This mountain of pizza was sponsored by APD Communications, a local employer of our students. They also sent a team of developers (former graduates of ours) to relive the glory days and take part in the hackathon.
 bigimg: [{src: &amp;ldquo;/img/170512event/finale.jpg&amp;rdquo;, desc: &amp;ldquo;Lab full of jammers&amp;rdquo;}]
 In the end a mixture of tired contestants and eager judges gathered for the final judging and there really were some great games made!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Three Thing Game</title>
-      <link>https://threethinggame.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.github.io/page/about/</guid>
-      <description>For those not in the know, Three Thing Game is a programming Game Jam run over (approximately) 24 hours. Teams of enthusiasts (that’s you people, as well as me and my ‘kind’) gather to challenge themselves to create a game based on 3 random words that they will be given. At the end of the 24 hours you get to subject your game to a thorough Judging against various criteria like: adherence to the Things, how complete is your game, and how much money you slip the judge discreetly.</description>
     </item>
     
   </channel>
