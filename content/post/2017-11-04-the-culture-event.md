@@ -37,7 +37,7 @@ In joint second place the 'team' called Bob with his game Defend Your Culture. L
 <br />
 ![alt text](/img/171104event/csharps.jpg "Joint second place")
 
-Completing the set as the other joint second place is the C Sharps team with their game The Flood of Culture. Their game harks back to the substantial flooding the occurred in the city a few years ago. Using an interesting flood fill mechanic, the player is required to place sandbags and barriers to prevent the spread of the flood through the level and save as many cultural artefacts as possible from a watery demise. 
+Completing the set as the other joint second place is the C Sharps team with their game The Flood of Culture. Their game harks back to the substantial flooding that occurred in the city a few years ago. Using an interesting flood fill mechanic, the player is required to place sandbags and barriers to prevent the spread of the flood through the level and save as many cultural artefacts as possible from a watery demise. 
 
 {{< youtube hcX1Zk6jBu8 >}}
 <br/>
