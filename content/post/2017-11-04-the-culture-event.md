@@ -14,6 +14,8 @@ As a bit of a departure from the usual programme and to celebrate Hull's status 
 
 As usual there was a mountain of food for the hordes of ravenous jammers. Once again we are grateful to APD Communications for contributing to the food kitty and also we welcomed back their alumni team of developers.
 
+![alt text](/img/171104event/queue.jpg "The smell of pizza has attracted a small crowd")
+
 There was also a great showing from our talented musicians and sound specialists. They did some magnificent work taking comissions from the teams to create audio assets ranging from sound effects to background music and truly helping to make the games stand out.
 
 ![alt text](/img/171104event/finale.jpg "The grand finale")
