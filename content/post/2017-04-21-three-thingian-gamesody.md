@@ -1,11 +1,11 @@
 ---
 title: Three Thingian Gamesody
-date: 2017-10-08
+date: 2017-04-21
 tags: ["threethinggame", "music", "video"]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2p2TL5aNhlI?rel=0" frameborder="0" allowfullscreen></iframe>
-
+{{< youtube 2p2TL5aNhlI >}}
+<br/>
 The first (of many?) music covers to entice the masses to Three Thing Game. This is for the 12th and 13th May 2017  event.
 
 <!--more-->

@@ -4,8 +4,8 @@ date: 2017-10-08
 tags: ["threethinggame", "music", "video"]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BXMhfqmfQGw?rel=0" frameborder="0" allowfullscreen></iframe>
-
+{{< youtube BXMhfqmfQGw >}}
+<br/>
 Another in the line music covers to entice the masses to Three Thing Game. This is for the 3rd and 4th November 2017  event.
 
 <!--more-->
