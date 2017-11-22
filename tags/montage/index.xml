@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Montage on Three Thing Game</title>
+    <link>https://threethinggame.github.io/tags/montage/</link>
+    <description>Recent content in Montage on Three Thing Game</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://threethinggame.github.io/tags/montage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A video montage</title>
+      <link>https://threethinggame.github.io/post/2017-11-06-video-montage/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2017-11-06-video-montage/</guid>
+      <description>The most recent Three Thing Game (3rd and 4th November 2017) has been and gone and it was great again to see so many people take part. Above is a video that the University Digital team put together with footage across the 24 hours. Are you in it?</description>
+    </item>
+    
+  </channel>
+</rss>
