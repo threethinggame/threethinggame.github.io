@@ -1,63 +1,41 @@
 ---
-title: The Fizzyo Games
-date: 2017-05-12
-tags: ["threethinggame", "fizzyo", "winners"]
+title: A Cultural Event
+date: 2017-11-04
+tags: ["threethinggame", "hull2017", "winners"]
 ---
-![alt text](/img/170512event/labfull.jpg "Lab full of jammers")
+![alt text](/img/171104event/prizes.jpg "A grand prize?")
 
-This time we ran a competition sub-category for games that make use of the #fizzyo device: https://github.com/Fizzyo/fizzyo-challenge. In summary, it is a device that measures breath output, and is used for Cystic Fibrosis patients as part of their physio programme. What does that have to do with a game jam you may ask? Well, I am glad you asked, because these devices can be represented as a single axis joystick (plus button) and so can be used as a control input for games. There is a framework and examples to allow you to use the devices with Monogame or Unity. The idea is that we can make games that encourages (in particular) younger physio patients to complete their physio and using the correct technique. Lee Stott from Microsoft gave a great talk on why it is so important to do things to help cystic fibrosis sufferers and the #fizzyo project for games. 
+As a bit of a departure from the usual programme and to celebrate Hull's status as the City of Culture 2017 we decided to theme the latest event accordingly. Thus, all of the teams received the same three words provided by the CEO of City of Culture Martin Green:  
+### Culture, Hull, Change
 
 <!--more-->
 
-![alt text](/img/170512event/simonpresents.jpg "Simon Jackson presents about using the Fizzyo device with Monogame and Unity")
+![alt text](/img/171104event/food.jpg "Look at all that food!")
 
-We also had a guest talk from Simon Jackson, a professional software developer with long time experience with Monogame and Unity and intimate knowledge of the workings of the #fizzyo device.
+As usual there was a mountain of food for the hordes of ravenous jammers. Once again we are grateful to APD Communications for contributing to the food kitty and also we welcomed back their alumni team of developers.
 
-![alt text](/img/170512event/pizza.jpg "Look at all that food!")
+There was also a great showing from our talented musicians and sound specialists. They did some magnificent work taking comissions from the teams to create audio assets ranging from sound effects to background music and truly helping to make the games stand out.
 
-This mountain of pizza was sponsored by APD Communications, a local employer of our students. They also sent a team of developers (former graduates of ours) to relive the glory days and take part in the hackathon.
+![alt text](/img/171104event/finale.jpg "The grand finale")
 
-![alt text](/img/170512event/finale.jpg "The grand finale")
+17 teams made it through to the judging which was a great achievement and an interesting variety of games were made despite being based on the same three theme words.
 
-In the end a mixture of tired contestants and eager judges gathered for the final judging and there really were some great games made!
+## The winners
 
-## Fizzyo Games
+![alt text](/img/171104event/parsenips.jpg "First place")
 
-![alt text](/img/170512event/firstfizzyo.jpg "First Place in the Fizzyo category")
-
-In first place is Llama Dash created by a team called ‘Bob’. With the words llama, octopus, and duel Connor Kerwin created an infinite runner game that gave real consideration to the physiotherapy routine of young cystic fibrosis patients and how that fit in to the game. Extra impressive for a team with a solo member.
-
-{{< youtube QR2zpObDUHM >}}
+In first place is The Parsenips with The Evolution of Hull. Their creation is a set of Hull themed minigames that starts with Hull's beginnings as a whaling town. The city grows after each stage, and the next minigame has you flying Amy Johnson's Moth Flappy Bird style. Finally a neatly stylised Frogger inspired minigame requires that you navigate your amphibian across the river of Philip Larkin's prose.
+{{< youtube v7asUTxBlr4 >}}
 <br/>
-![alt text](/img/170512event/secondfizzyo.jpg "Second Place in the Fizzyo category")
+![alt text](/img/171104event/bob.jpg "Joint second place")
 
-In second place, the pair of programmers in the ‘Seedlings’ team created the Blossoming Bakery game using the words blossom, pie, and procedural. Their game is a multiplayer turn-based procedurally generated board game that is designed to allow both cystic fibrosis patients and their friends and siblings to play together. Clever mechanisms in place to encourage the correct use of the #fizzyo device.
+In joint second place the 'team' called Bob with his game Defend Your Culture. Last Three Thing Game this jammer took the top spot and so he is developing an impressive legacy of podium finishes. This time his game has a radar view of the City of Culture, with important landmarks identified on the map in need of your protection. Enemies of Hull are revealed by the radar sweep requiring some quick thinking and good memory to target them before or after they vanish from view until the next sweep of the radar.
 
-{{< youtube Pg2EwMLotEA >}}
-<br/>
-![alt text](/img/170512event/thirdfizzyo.jpg "Third Place in the Fizzyo category")
-
-In third place, DP’s Meme Team, a developer quartet, created Dragondoom inspired by the words dragon, magic, and apocalypse. Their game has #fizzyo users embodying a fire breathing dragon defending itself against swarms of malevolent wizards. 
-
-{{< youtube VEbvFNFJj9I >}}
-<br/>
-
-## Non-Fizzyo Games
-
-![alt text](/img/170512event/firstnonfizzyo.jpg "First Place in the standard category")
-
-In first place is Lunar Lander with their game A O. Using their words ASCII, ambient occlusion, and psionic, they created a visually impressive procedural world. It reminded me a little of the retro classic Gauntlet, though it looks nothing like it.
-{{< youtube HlZJbUgSU6Q >}}
-<br/>
-![alt text](/img/170512event/secondnonfizzyo.jpg "Second Place in the standard category")
-
-In second place the team called [“hip”, “hip”] (hip hip array – programmers’ joke) made a charming multiplayer space invaders-esque game called Condimental where the ships could move freely on a circular track and shoot the centrally spawning tomatoes to fill their ketchup bottle. Ketchup, race, and psychedelic were their words and it is all the more impressive that these are A-level students that were only introduced to games development using Monogame a few weeks ago.
-
-{{< youtube P9Kr0FUKbfs >}}
+{{< youtube LynZjhDlSvE >}}
 <br />
-![alt text](/img/170512event/thirdnonfizzyo.jpg "Third Place in the standard category")
+![alt text](/img/171104event/csharps.jpg "Joint second place")
 
-In third place the team called ‘Oops’ created a game of two halves called Gorilla Gauntlet using their words ape, surfing, and arena. In their game an obstacle filled race on surf boards culminates in a one on one battle arena.
+Completing the set as the other joint second place is the C Sharps team with their game The Flood of Culture. Their game harks back to the substantial flooding the occurred in the city a few years ago. Using an interesting flood fill mechanic, the player is required to place sandbags and barriers to prevent the spread of the flood through the level and save as many cultural artefacts as possible from a watery demise. 
 
-{{< youtube i4UptJXOMH4 >}}
+{{< youtube hcX1Zk6jBu8 >}}
 <br/>
