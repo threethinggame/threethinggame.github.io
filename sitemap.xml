@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://threethinggame.github.io/post/2018-03-09-the-midichlorian-event/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://threethinggame.github.io/post/2017-11-06-video-montage/</loc>
     <lastmod>2017-11-06T00:00:00+00:00</lastmod>
   </url>
@@ -29,11 +34,17 @@
   
   <url>
     <loc>https://threethinggame.github.io/</loc>
-    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://threethinggame.github.io/page/08140/</loc>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/announcement/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -50,6 +61,12 @@
   <url>
     <loc>https://threethinggame.github.io/tags/hull2017/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/midichlorians/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,13 +89,13 @@
   
   <url>
     <loc>https://threethinggame.github.io/post/</loc>
-    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://threethinggame.github.io/tags/</loc>
-    <lastmod>2017-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,7 +105,7 @@
   
   <url>
     <loc>https://threethinggame.github.io/tags/threethinggame/</loc>
-    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

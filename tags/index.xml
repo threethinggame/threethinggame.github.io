@@ -5,10 +5,19 @@
     <link>https://threethinggame.github.io/tags/</link>
     <description>Recent content in Tags on Three Thing Game</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://threethinggame.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcement</title>
+      <link>https://threethinggame.github.io/tags/announcement/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/tags/announcement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fizzyo</title>
@@ -25,6 +34,15 @@
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://threethinggame.github.io/tags/hull2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midichlorians</title>
+      <link>https://threethinggame.github.io/tags/midichlorians/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/tags/midichlorians/</guid>
       <description></description>
     </item>
     
@@ -49,7 +67,7 @@
     <item>
       <title>Threethinggame</title>
       <link>https://threethinggame.github.io/tags/threethinggame/</link>
-      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://threethinggame.github.io/tags/threethinggame/</guid>
       <description></description>
