@@ -1,6 +1,6 @@
 ---
 title: Registration open!
-date: 2018-03-14
+date: 2018-03-19
 tags: ["threethinggame", "midichlorians", "announcement"]
 ---
 ![alt text](/img/180504event/date_logo.png "May the 4th be with you")
