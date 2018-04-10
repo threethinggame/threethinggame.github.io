@@ -1,6 +1,6 @@
 ---
 title: Unity Guest Speaker
-date: 2018-03-18
+date: 2018-04-10
 tags: ["threethinggame", "industry", "announcement"]
 ---
 ![alt text](/img/180504event/joshpromo.png "Unity Prototyping guest slot")
