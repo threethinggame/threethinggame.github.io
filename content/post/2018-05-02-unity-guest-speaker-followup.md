@@ -1,6 +1,6 @@
 ---
 title: Unity Guest Speaker - followup
-date: 2018-04-10
+date: 2018-05-02
 tags: ["threethinggame", "industry", "talk"]
 ---
 ![alt text](/img/180504event/unity_talk.png "Unity Prototyping and careers guest slot")
