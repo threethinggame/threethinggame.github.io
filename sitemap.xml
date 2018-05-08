@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://threethinggame.github.io/post/2018-05-05-the-event/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://threethinggame.github.io/post/2018-04-10-unity-guest-speaker/</loc>
+    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/post/2018-05-02-unity-guest-speaker-followup/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,11 +59,17 @@
   
   <url>
     <loc>https://threethinggame.github.io/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://threethinggame.github.io/page/08140/</loc>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/2018/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -110,12 +126,18 @@
   
   <url>
     <loc>https://threethinggame.github.io/post/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://threethinggame.github.io/tags/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/talk/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -126,7 +148,7 @@
   
   <url>
     <loc>https://threethinggame.github.io/tags/threethinggame/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -138,7 +160,7 @@
   
   <url>
     <loc>https://threethinggame.github.io/tags/winners/</loc>
-    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
