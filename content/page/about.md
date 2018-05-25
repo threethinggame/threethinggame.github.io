@@ -10,10 +10,22 @@ Over the years teams from all years of study have made some great stuff, some of
 
 A write-up of the last Three Thing Game can be found here: http://threethinggame.com/post/2018-05-05-the-event/
 
+## Upcoming events
+
 Looking forward to the next events? Here are the dates:
 
 November 2nd - 3rd 2018
 
 April 5th - 6th 2019
+
+## Music Videos
+
+Filled with Three Thing fever and can't wait? Try listening to these on repeat!
+
+http://threethinggame.com/post/2018-03-14-cant-stop-the-coding/
+
+http://threethinggame.com/post/2017-10-08-last-three-thing-game/
+
+http://threethinggame.com/post/2017-04-21-three-thingian-gamesody/
 
 #threethinggame
