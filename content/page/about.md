@@ -3,6 +3,8 @@ title: Three Thing Game
 subtitle: All you ever wanted to know and more
 comments: false
 ---
+{{< youtube Sgw5svcEKCs >}}
+<br/>
 
 For those not in the know, Three Thing Game is a programming Game Jam run over (approximately) 24 hours. Teams of enthusiasts (that’s you people, as well as me and my ‘kind’) gather to challenge themselves to create a game based on 3 random words that they will be given. At the end of the 24 hours you get to subject your game to a thorough Judging against various criteria like: adherence to the Things, how complete is your game, and how much money you slip the judge discreetly.
 
@@ -22,10 +24,13 @@ April 5th - 6th 2019
 
 Filled with Three Thing fever and can't wait? Try listening to these on repeat!
 
-http://threethinggame.com/post/2018-03-14-cant-stop-the-coding/
+Can't Stop The Coding
+{{< youtube Abhamx-U0Yg >}}
 
-http://threethinggame.com/post/2017-10-08-last-three-thing-game/
+Last Three Thing Game
+{{< youtube BXMhfqmfQGw >}}
 
-http://threethinggame.com/post/2017-04-21-three-thingian-gamesody/
+Three Thingian Gamesody
+{{< youtube 2p2TL5aNhlI >}}
 
 #threethinggame
