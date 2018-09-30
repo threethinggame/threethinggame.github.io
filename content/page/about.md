@@ -16,9 +16,9 @@ A write-up of the last Three Thing Game can be found here: http://threethinggame
 
 Looking forward to the next events? Here are the dates:
 
-November 2nd - 3rd 2018
+November 3rd - 4th 2018
 
-April 5th - 6th 2019
+April 6th - 7th 2019
 
 ## Music Videos
 
