@@ -16,3 +16,4 @@ git add *
 git commit -m %commitMessage%
 popd
 git push origin master
+pause
