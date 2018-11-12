@@ -27,28 +27,33 @@ There are some kinks to sort out on the organisational side to account for this 
 
 In first place are the Black Godzillas. This team has featured many times at Three Thing Game but not quite at this scale before. When they asked me whether they could have a team of 10 people, I suggested that they were mad and would be unable to coordinate that many in the short time, but they somehow managed it. The team was made up of half Computer Scientists and the other half made up of a mixture of digital artists and musicians.
 
-Their words were glue, remembering, and miner. Building on the SpatialOS GDK template they created a cave environment for the robot miners to squirt glue at each other.
-{{< youtube needToChange >}}
+Their words were glue, remembering, and miner. Building on the SpatialOS GDK template they created a team based multiplayer cave environment for the robot miners to squirt glue at each other.
+{{< youtube 3AoqQ0u57ms >}}
 
 ## Second place
 
-![alt text](/img/181103event/notorious.png "Second place")
+![alt text](/img/181103event/notorius.png "Second place")
 
 The Notorious B.I.G. (Bois in Games) is a trio that spans the Computer Science years with a pair of Certificate Stage students and a Masters stage student. Using their three words of magic, turning, drinking they created an rather novel game that uses a steering wheel and pedals to control an alcoholic wizard. The wizard is beset by enemies and must use his magic spells (selected using a gear lever) to protect himself. However the mana required to cast spells is only replenished by consuming alcohol which makes him increasingly difficult to control as he becomes inebriated. I thought that having to 'walk' by alternately treading on the accelerator and clutch of the control pedals was a nice touch.   
-{{< youtube needToChange >}}
+{{< youtube yHXHwvSPQQk >}}
 
 ## Third place
 
-![alt text](/img/181103event/parsnips.png "Third place")
+![alt text](/img/181103event/parsenips.png "Third place")
 
 In third place, previous winners, the Parse(Nips). Their words, raw, ice, and gas. They created a platformer where the player was required to navigate a maze like underground level to find ore. Some areas of the tunnels are inaccessible without finding supplies for the weapon which can alternately be a flame-thrower or a freeze-ray. For example, the freeze-ray can turn the damaging water to ice so that it can be walked over and the flame-thrower can melt giant icicles blocking the path. Some nice particle effects on display.    
-{{< youtube needToChange >}}
+{{< youtube i6wxEDiYGpM >}}
 
 ## People's Choice
 
-![alt text](/img/181103event/needToChange.png "People's Choice")
+So, in a curious turn of events, the top three teams as voted for by the participants were the same top three teams as chosen by the judges (though in a different order).
 
-In third place, previous winners, the Parse(Nips). Their words, raw, ice, and gas. They created a platformer where the player was required to navigate a maze like underground level to find ore. Some areas of the tunnels are inaccessible without finding supplies for the weapon which can alternately be a flame-thrower or a freeze-ray. For example, the freeze-ray can turn the damaging water to ice so that it can be walked over and the flame-thrower can melt giant icicles blocking the path. Some nice particle effects on display.    
+But there can be only one, the the People's Choice for the Autumn 2018 Three Thing Game (by some margin) were The Notorious B.I.G. (Bois in Games) with their highly original drunken wizard steering extravaganza.
 
-{{< youtube needToChange >}}
-<br/>
+They are the same three guys as before, so no new picture here.    
+
+## Until next time!
+
+Congratulations to all our teams. It has been a blast as usual and it is great to see so many people getting involved.
+
+The weekend of April 6th and 7th is locked in for the next Three Thing Game and I hope to see you all again then!
