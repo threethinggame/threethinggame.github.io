@@ -69,12 +69,12 @@ Yes you can, but it is wholly your responsibility. It is worth noting that there
 
 ## When can I go home?
 
-The judging will take place at **1500 on Sunday 7th November**. The judges will make their way around the teams and you will have 3 minutes to pitch your game. You will also have to create a 3 minute video of your game. The judges will shortlist games for the final judging that will take place in **Robert Blackburn Lecture Theatre A at 1600**. The videos of the shortlisted games will be shown to everyone and the teams will be prepared to answer questions about their game.
+The judging will take place at **1500 on Sunday 7th April**. The judges will make their way around the teams and you will have 3 minutes to pitch your game. You will also have to create a 3 minute video of your game. The judges will shortlist games for the final judging that will take place in **Robert Blackburn Lecture Theatre A at 1600**. The videos of the shortlisted games will be shown to everyone and the teams will be prepared to answer questions about their game.
 And, to answer the actual question, it should all be done and dusted by **1700**.
 
 | Date           | Event           |
 | -------------- |:---------------:|
-| Monday 6th March | Registration opens |
+| Wednesday 6th March | Registration opens |
 | Wednesday 3rd April | Registration closes |
 | Wednesday 3rd April 1300 | Thing Distribution Event – RBB_LTA |
 | Saturday 6th April 1000 | Three Thing Kick-off – Fenner 052/65 |
