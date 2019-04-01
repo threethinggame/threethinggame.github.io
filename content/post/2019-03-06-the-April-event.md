@@ -47,6 +47,10 @@ There are a limited number of places as everyone needs to be able to fit in the 
 
 If you would like to take part but can’t form a team then you can go stag and be a team of one (some people have made this work very well before) or you could identify on your form that you would like to be in a team by using “need a team” as the team name on the form. We can then pool you together into teams. Where there is a will there is a way.
 
+## itch.io
+
+I would like to try out itch.io for hosting some of the bits and bobs for the games this year. So I have set up a jam site there which is at the end of this link: https://itch.io/jam/three-thing-game-april-2019. Using this site you can host the games that you make, including screenshots, videos, and playable demos etc. This will be neat for disseminating your excellent efforts.
+
 ## Finding teams
 
 You may already have a team in mind which is fine, but making its debut this year is the new Hull Games: Bonus Level Discord site. More news about this in the future but in short it is a place for us to communicate amongst each other about making games, whether you are an artist, programmer, or musician, or anything else really. It is here:
