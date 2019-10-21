@@ -1,6 +1,6 @@
 ---
-title: Registration open! Again...
-date: 2019-11-21
+title: Registration open! Again
+date: 2019-10-21
 tags: ["threethinggame", "registration", "announcement"]
 ---
 ![alt text](/img/191116event/event.png "Save the date")
@@ -8,7 +8,6 @@ tags: ["threethinggame", "registration", "announcement"]
 Registration is now open!
 
 I am working on a new video, but whilst you wait here is a playlist of the previous ones: https://www.youtube.com/playlist?list=PLLR3LLHiz0fUze06acCulHDxu37TCwxTv
-
 
 <!--more-->
 
