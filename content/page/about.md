@@ -10,19 +10,27 @@ For those not in the know, Three Thing Game is a programming Game Jam run over (
 
 Over the years teams from all years of study have made some great stuff, some of which has even been published in various app stores. So you should definitely not be discouraged from taking part in your first year. This is an excellent opportunity to put your skills in to practice, to hone your craft. This is also one of those ‘extra-curricular’ activities that help to distinguish you in the eyes of potential employers from the hundreds of other people that will be graduating from here at the same time. 
 
-A write-up of the last Three Thing Game can be found here: http://threethinggame.com/post/2018-05-05-the-event/
+A write-up of the last Three Thing Game can be found here: https://threethinggame.com/post/2019-04-06-three-things-came/
 
 ## Upcoming events
 
 Looking forward to the next events? Here are the dates:
 
-November 3rd - 4th 2018
+November 16th - 17th 2019
 
-April 6th - 7th 2019
+March 21st - 22nd 2020
 
 ## Music Videos
 
 Filled with Three Thing fever and can't wait? Try listening to these on repeat!
+
+https://www.youtube.com/watch?v=7zT0khm9X8E&list=PLLR3LLHiz0fUze06acCulHDxu37TCwxTv for a playlist.
+
+Three Thing's Comin'
+{{< youtube 7zT0khm9X8E >}}
+
+The Three Thing Game
+{{< youtube q2pbb_Rbhrk >}}
 
 Can't Stop The Coding
 {{< youtube Abhamx-U0Yg >}}
