@@ -33,9 +33,9 @@ I am glad you asked. First thing is to put the date in your diary.
 
 Remember, remember the (weekend of the 6th and 7th) of April game making, three things, the lot. I see no reason why Game Jam season should ever be forgot.
 
-Form teams! Generally speaking, you want to have a maximum of 5 people in your team. Under the pressure of 24 hours it can be very difficult to integrate the efforts of large numbers of people. Even 5 is pushing it a little. You can register online here: https://forms.gle/esuB9AKMQef86pJT8. It costs £2 per person in your team to take part, which helps to cover the cost of all the food and snacks that will be supplied. Your registration is preliminary when you submit your completed form and completed once I have the right total amount of money for your team. You can give me the money in my office RBB-311D, you may want to email me to confirm that I am there in case of lectures and meetings and bears (oh my). 
+Form teams! Generally speaking, you want to have a maximum of 5 people in your team. Under the pressure of 24 hours it can be very difficult to integrate the efforts of large numbers of people. Even 5 is pushing it a little. You can register online here: https://forms.gle/esuB9AKMQef86pJT8.  
 
-Registration will close on Wednesday 3rd April so please get your registration forms and money to me before then so that we can organise the right quantities of food and refreshments. The last opportunity to give me money will be during the Thing Distribution Event.
+Registration will close on Wednesday 3rd April so please get your registration forms to me before then.
 
 There are a limited number of places as everyone needs to be able to fit in the big lab and these are on a first come first served basis.
 
