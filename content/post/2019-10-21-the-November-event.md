@@ -7,7 +7,8 @@ tags: ["threethinggame", "registration", "announcement"]
 
 Registration is now open!
 
-I am working on a new video, but whilst you wait here is a playlist of the previous ones: https://www.youtube.com/watch?v=q2pbb_Rbhrk&list=PLLR3LLHiz0fUze06acCulHDxu37TCwxTv 
+I am working on a new video, but whilst you wait here is a playlist of the previous ones: https://www.youtube.com/playlist?list=PLLR3LLHiz0fUze06acCulHDxu37TCwxTv
+
 
 <!--more-->
 
