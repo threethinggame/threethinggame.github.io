@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk on Three Thing Game</title>
+    <link>https://threethinggame.github.io/tags/talk/</link>
+    <description>Recent content in Talk on Three Thing Game</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://threethinggame.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unity Guest Speaker - followup</title>
+      <link>https://threethinggame.github.io/post/2018-05-02-unity-guest-speaker-followup/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2018-05-02-unity-guest-speaker-followup/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://threethinggame.github.io/img/180504event/unity_talk.png&#34; alt=&#34;alt text&#34; title=&#34;Unity Prototyping and careers guest slot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was great to have Josh Naylor, one of our lovely and accomplished alumni, come and give a talk. We had just allocated the words to the Three Thing Game teams using the Three Thinged Bandit before handing over the floor to the Lead of Evangelism for the EMEA region at Unity.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winners on Three Thing Game</title>
+    <link>https://threethinggame.github.io/tags/winners/</link>
+    <description>Recent content in Winners on Three Thing Game</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://threethinggame.github.io/tags/winners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Three Things Came</title>
+      <link>https://threethinggame.github.io/post/2019-04-06-three-things-came/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2019-04-06-three-things-came/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://threethinggame.github.io/img/190406event/games.png&#34; alt=&#34;alt text&#34; title=&#34;Three Thing Games on itch.io&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The April 2019 Three Thing Game has finished with more great games being made.&lt;/p&gt;
+
+&lt;p&gt;An account of the event follows.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Autumn Results</title>
+      <link>https://threethinggame.github.io/post/2018-11-06-autumn-results/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2018-11-06-autumn-results/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://threethinggame.github.io/img/181103event/pizza.png&#34; alt=&#34;alt text&#34; title=&#34;Leaning tower of Pizza&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another Three Thing Game has finished with more great games being made.&lt;/p&gt;
+
+&lt;p&gt;An account of the event follows.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Results</title>
+      <link>https://threethinggame.github.io/post/2018-05-05-the-event/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2018-05-05-the-event/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://threethinggame.github.io/img/180504event/tick_tock.png&#34; alt=&#34;alt text&#34; title=&#34;Countdown&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the students created the countdown timer to help them focus when doing coursework in the lab and modified it to remind the jammers just how little time was left! Fast forward from when that picture was taken and another Three Thing Game has concluded.&lt;/p&gt;
+
+&lt;p&gt;An account of the event follows.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Cultural Event</title>
+      <link>https://threethinggame.github.io/post/2017-11-04-the-culture-event/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2017-11-04-the-culture-event/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://threethinggame.github.io/img/171104event/prizes.jpg&#34; alt=&#34;alt text&#34; title=&#34;A grand prize?&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a bit of a departure from the usual programme and to celebrate Hull&amp;rsquo;s status as the City of Culture 2017 we decided to theme the latest event accordingly. Thus, all of the teams received the same three words provided by the CEO of City of Culture Martin Green:&lt;/p&gt;
+
+&lt;h3 id=&#34;culture-hull-change&#34;&gt;Culture, Hull, Change&lt;/h3&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Fizzyo Games</title>
+      <link>https://threethinggame.github.io/post/2017-05-12-the-fizzyo-event/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2017-05-12-the-fizzyo-event/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://threethinggame.github.io/img/170512event/labfull.jpg&#34; alt=&#34;alt text&#34; title=&#34;Lab full of jammers&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This time we ran a competition sub-category for games that make use of the #fizzyo device: &lt;a href=&#34;https://github.com/Fizzyo/fizzyo-challenge&#34;&gt;https://github.com/Fizzyo/fizzyo-challenge&lt;/a&gt;. In summary, it is a device that measures breath output, and is used for Cystic Fibrosis patients as part of their physio programme. What does that have to do with a game jam you may ask? Well, I am glad you asked, because these devices can be represented as a single axis joystick (plus button) and so can be used as a control input for games. There is a framework and examples to allow you to use the devices with Monogame or Unity. The idea is that we can make games that encourages (in particular) younger physio patients to complete their physio and using the correct technique. Lee Stott from Microsoft gave a great talk on why it is so important to do things to help cystic fibrosis sufferers and the #fizzyo project for games.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

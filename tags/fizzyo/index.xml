@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fizzyo on Three Thing Game</title>
+    <link>https://threethinggame.github.io/tags/fizzyo/</link>
+    <description>Recent content in Fizzyo on Three Thing Game</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://threethinggame.github.io/tags/fizzyo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Fizzyo Games</title>
+      <link>https://threethinggame.github.io/post/2017-05-12-the-fizzyo-event/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.github.io/post/2017-05-12-the-fizzyo-event/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://threethinggame.github.io/img/170512event/labfull.jpg&#34; alt=&#34;alt text&#34; title=&#34;Lab full of jammers&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This time we ran a competition sub-category for games that make use of the #fizzyo device: &lt;a href=&#34;https://github.com/Fizzyo/fizzyo-challenge&#34;&gt;https://github.com/Fizzyo/fizzyo-challenge&lt;/a&gt;. In summary, it is a device that measures breath output, and is used for Cystic Fibrosis patients as part of their physio programme. What does that have to do with a game jam you may ask? Well, I am glad you asked, because these devices can be represented as a single axis joystick (plus button) and so can be used as a control input for games. There is a framework and examples to allow you to use the devices with Monogame or Unity. The idea is that we can make games that encourages (in particular) younger physio patients to complete their physio and using the correct technique. Lee Stott from Microsoft gave a great talk on why it is so important to do things to help cystic fibrosis sufferers and the #fizzyo project for games.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

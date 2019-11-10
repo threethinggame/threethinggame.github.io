@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>The Fizzyo Games</title>
+  <meta property="og:title" content="The Fizzyo Games" />
+  <meta name="twitter:title" content="The Fizzyo Games" />
+  <meta name="description" content="
+
+This time we ran a competition sub-category for games that make use of the #fizzyo device: https://github.com/Fizzyo/fizzyo-challenge. In summary, it is a device that measures breath output, and is used for Cystic Fibrosis patients as part of their physio programme. What does that have to do with a game jam you may ask? Well, I am glad you asked, because these devices can be represented as a single axis joystick (plus button) and so can be used as a control input for games. There is a framework and examples to allow you to use the devices with Monogame or Unity. The idea is that we can make games that encourages (in particular) younger physio patients to complete their physio and using the correct technique. Lee Stott from Microsoft gave a great talk on why it is so important to do things to help cystic fibrosis sufferers and the #fizzyo project for games.
+
+">
+  <meta property="og:description" content="
+
+This time we ran a competition sub-category for games that make use of the #fizzyo device: https://github.com/Fizzyo/fizzyo-challenge. In summary, it is a device that measures breath output, and is used for Cystic Fibrosis patients as part of their physio programme. What does that have to do with a game jam you may ask? Well, I am glad you asked, because these devices can be represented as a single axis joystick (plus button) and so can be used as a control input for games. There is a framework and examples to allow you to use the devices with Monogame or Unity. The idea is that we can make games that encourages (in particular) younger physio patients to complete their physio and using the correct technique. Lee Stott from Microsoft gave a great talk on why it is so important to do things to help cystic fibrosis sufferers and the #fizzyo project for games.
+
+">
+  <meta name="twitter:description" content="
+
+This time we ran a competition sub-category for games that make use of the #fizzyo device: https://github.com/Fizzyo/fizzyo-challenge. In summary, it is a device that measures breath output, and is …">
+  <meta name="author" content="#threethinggame"/>
+  <link href='https://threethinggame.github.io/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="https://threethinggame.github.io/img/avatar-icon.png" />
+  <meta name="twitter:image" content="https://threethinggame.github.io/img/avatar-icon.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@threethinggame" />
+  <meta name="twitter:creator" content="@threethinggame" />
+  <meta property="og:url" content="https://threethinggame.github.io/post/2017-05-12-the-fizzyo-event/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Three Thing Game" />
+
+  <meta name="generator" content="Hugo 0.40" />
+  <link rel="canonical" href="https://threethinggame.github.io/post/2017-05-12-the-fizzyo-event/" />
+  <link rel="alternate" href="" type="application/rss+xml" title="Three Thing Game">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://threethinggame.github.io/css/main.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="https://threethinggame.github.io/css/highlighting.css" />
+  <link rel="stylesheet" href="https://threethinggame.github.io/css/pygment_highlights.css" />
+  <link rel="stylesheet" href="https://threethinggame.github.io/css/highlight.min.css" />
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://threethinggame.github.io">Three Thing Game</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="Home" href="/">Home</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="About" href="/page/about/">About</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Tags" href="/tags">Tags</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+          <a title="Three Thing Game" href="https://threethinggame.github.io">
+            <img class="avatar-img" src="https://threethinggame.github.io/img/avatar-icon.png" alt="Three Thing Game" />
+          </a>
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              <h1>The Fizzyo Games</h1>
+                
+                
+                  <span class="post-meta">
+  Posted on May 12, 2017
+  
+</span>
+
+
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p><img src="/img/170512event/labfull.jpg" alt="alt text" title="Lab full of jammers" /></p>
+
+<p>This time we ran a competition sub-category for games that make use of the #fizzyo device: <a href="https://github.com/Fizzyo/fizzyo-challenge">https://github.com/Fizzyo/fizzyo-challenge</a>. In summary, it is a device that measures breath output, and is used for Cystic Fibrosis patients as part of their physio programme. What does that have to do with a game jam you may ask? Well, I am glad you asked, because these devices can be represented as a single axis joystick (plus button) and so can be used as a control input for games. There is a framework and examples to allow you to use the devices with Monogame or Unity. The idea is that we can make games that encourages (in particular) younger physio patients to complete their physio and using the correct technique. Lee Stott from Microsoft gave a great talk on why it is so important to do things to help cystic fibrosis sufferers and the #fizzyo project for games.</p>
+
+<p></p>
+
+<p><img src="/img/170512event/simonpresents.jpg" alt="alt text" title="Simon Jackson presents about using the Fizzyo device with Monogame and Unity" /></p>
+
+<p>We also had a guest talk from Simon Jackson, a professional software developer with long time experience with Monogame and Unity and intimate knowledge of the workings of the #fizzyo device.</p>
+
+<p><img src="/img/170512event/pizza.jpg" alt="alt text" title="Look at all that food!" /></p>
+
+<p>This mountain of pizza was sponsored by APD Communications, a local employer of our students. They also sent a team of developers (former graduates of ours) to relive the glory days and take part in the hackathon.</p>
+
+<p><img src="/img/170512event/finale.jpg" alt="alt text" title="The grand finale" /></p>
+
+<p>In the end a mixture of tired contestants and eager judges gathered for the final judging and there really were some great games made!</p>
+
+<h2 id="fizzyo-games">Fizzyo Games</h2>
+
+<p><img src="/img/170512event/firstfizzyo.jpg" alt="alt text" title="First Place in the Fizzyo category" /></p>
+
+<p>In first place is Llama Dash created by a team called ‘Bob’. With the words llama, octopus, and duel Connor Kerwin created an infinite runner game that gave real consideration to the physiotherapy routine of young cystic fibrosis patients and how that fit in to the game. Extra impressive for a team with a solo member.</p>
+
+<p>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/QR2zpObDUHM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+<br/>
+<img src="/img/170512event/secondfizzyo.jpg" alt="alt text" title="Second Place in the Fizzyo category" /></p>
+
+<p>In second place, the pair of programmers in the ‘Seedlings’ team created the Blossoming Bakery game using the words blossom, pie, and procedural. Their game is a multiplayer turn-based procedurally generated board game that is designed to allow both cystic fibrosis patients and their friends and siblings to play together. Clever mechanisms in place to encourage the correct use of the #fizzyo device.</p>
+
+<p>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/Pg2EwMLotEA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+<br/>
+<img src="/img/170512event/thirdfizzyo.jpg" alt="alt text" title="Third Place in the Fizzyo category" /></p>
+
+<p>In third place, DP’s Meme Team, a developer quartet, created Dragondoom inspired by the words dragon, magic, and apocalypse. Their game has #fizzyo users embodying a fire breathing dragon defending itself against swarms of malevolent wizards.</p>
+
+<p>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/VEbvFNFJj9I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+<br/></p>
+
+<h2 id="non-fizzyo-games">Non-Fizzyo Games</h2>
+
+<p><img src="/img/170512event/firstnonfizzyo.jpg" alt="alt text" title="First Place in the standard category" /></p>
+
+<p>In first place is Lunar Lander with their game A O. Using their words ASCII, ambient occlusion, and psionic, they created a visually impressive procedural world. It reminded me a little of the retro classic Gauntlet, though it looks nothing like it.
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/HlZJbUgSU6Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+<br/>
+<img src="/img/170512event/secondnonfizzyo.jpg" alt="alt text" title="Second Place in the standard category" /></p>
+
+<p>In second place the team called <a href="hip hip array – programmers’ joke">“hip”, “hip”</a> made a charming multiplayer space invaders-esque game called Condimental where the ships could move freely on a circular track and shoot the centrally spawning tomatoes to fill their ketchup bottle. Ketchup, race, and psychedelic were their words and it is all the more impressive that these are A-level students that were only introduced to games development using Monogame a few weeks ago.</p>
+
+<p>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/P9Kr0FUKbfs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+<br />
+<img src="/img/170512event/thirdnonfizzyo.jpg" alt="alt text" title="Third Place in the standard category" /></p>
+
+<p>In third place the team called ‘Oops’ created a game of two halves called Gorilla Gauntlet using their words ape, surfing, and arena. In their game an obstacle filled race on surf boards culminates in a one on one battle arena.</p>
+
+<p>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/i4UptJXOMH4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+<br/></p>
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="https://threethinggame.github.io/post/2017-04-21-three-thingian-gamesody/" data-toggle="tooltip" data-placement="top" title="Three Thingian Gamesody">&larr; Previous Post</a>
+          </li>
+        
+        
+          <li class="next">
+            <a href="https://threethinggame.github.io/post/2017-10-08-last-three-thing-game/" data-toggle="tooltip" data-placement="top" title="Last Three Thing Game">Next Post &rarr;</a>
+          </li>
+        
+      </ul>
+
+      
+        
+      
+
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="https://www.facebook.com/threethinggame" title="Facebook">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/threethinggame" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCbjS1BMnUZQKvlxMhw9NXFA" title="Youtube">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            <a href="" title="RSS">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              <a href="threethinggame.com">#threethinggame</a>
+            
+          
+
+          &nbsp;&bull;&nbsp;
+          2019
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://threethinggame.github.io">Three Thing Game</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.40</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://threethinggame.github.io/js/main.js"></script>
+<script src="https://threethinggame.github.io/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+<script src="https://threethinggame.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+  </body>
+</html>
+
