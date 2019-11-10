@@ -3,8 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://threethinggame.github.io/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/announcement/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/post/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/registration/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://threethinggame.github.io/post/2019-10-21-the-november-event/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/threethinggame/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/2019/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,13 +49,33 @@
   </url>
   
   <url>
+    <loc>https://threethinggame.github.io/tags/winners/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/music/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://threethinggame.github.io/post/2019-04-01-three-things-comin/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/video/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://threethinggame.github.io/post/2019-03-06-the-april-event/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/2018/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,6 +94,16 @@
   </url>
   
   <url>
+    <loc>https://threethinggame.github.io/tags/dates/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/events/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://threethinggame.github.io/post/2018-05-25-upcoming-events/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
   </url>
@@ -48,6 +114,16 @@
   </url>
   
   <url>
+    <loc>https://threethinggame.github.io/tags/industry/</loc>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/talk/</loc>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://threethinggame.github.io/post/2018-05-02-unity-guest-speaker-followup/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
   </url>
@@ -55,6 +131,11 @@
   <url>
     <loc>https://threethinggame.github.io/post/2018-04-10-unity-guest-speaker/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/midichlorians/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,13 +159,28 @@
   </url>
   
   <url>
+    <loc>https://threethinggame.github.io/tags/montage/</loc>
+    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://threethinggame.github.io/post/2017-11-04-the-culture-event/</loc>
+    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/hull2017/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://threethinggame.github.io/post/2017-10-08-last-three-thing-game/</loc>
     <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.github.io/tags/fizzyo/</loc>
+    <lastmod>2017-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -98,134 +194,19 @@
   </url>
   
   <url>
-    <loc>https://threethinggame.github.io/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://threethinggame.github.io/page/08140/</loc>
   </url>
   
   <url>
-    <loc>https://threethinggame.github.io/tags/2018/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/2019/</loc>
-    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/announcement/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://threethinggame.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/dates/</loc>
-    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/events/</loc>
-    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/fizzyo/</loc>
-    <lastmod>2017-05-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/hull2017/</loc>
-    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/industry/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/midichlorians/</loc>
-    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/montage/</loc>
-    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/music/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://threethinggame.github.io/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/post/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/registration/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/talk/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://threethinggame.github.io/page/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/threethinggame/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/video/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.github.io/tags/winners/</loc>
-    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
