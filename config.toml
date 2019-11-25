@@ -1,13 +1,10 @@
-baseurl = "https://threethinggame.github.io"
+baseurl = "https://threethinggamecom"
 DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
 title = "Three Thing Game"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
 
 [Params]
   subtitle = "...is an excellent game jam"
