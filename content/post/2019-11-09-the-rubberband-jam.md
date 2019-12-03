@@ -6,7 +6,7 @@ tags: ["threethinggame", "music", "video"]
 
 {{< youtube LEJyvIvuZbc >}}
 <br/>
-A new music cover to entice the masses to Three Thing Game. This is for the 16th and 77th November 2019 event https://threethinggame.com/post/2019-10-21-the-november-event/.
+A new music cover to entice the masses to Three Thing Game. This is for the 16th and 17th November 2019 event https://threethinggame.com/post/2019-10-21-the-november-event/.
 
 <!--more-->
 

@@ -1,4 +1,4 @@
-baseurl = "https://threethinggamecom"
+baseurl = "https://threethinggame.com"
 DefaultContentLanguage = "en"
 title = "Three Thing Game"
 theme = "beautifulhugo"

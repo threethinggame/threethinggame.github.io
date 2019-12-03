@@ -1,10 +1,10 @@
 ---
-title: Three Things Came
+title: Rubberband Results
 date: 2019-11-17
 tags: ["threethinggame", "2019", "winners"]
 ---
 
-![alt text](/img/190406event/games.png "Three Thing Games on itch.io")
+![alt text](/img/191116event/games.png "Three Thing Games on itch.io")
 
 The November 2019 Three Thing Game has finished with more great games being made. 
 
@@ -12,30 +12,27 @@ An account of the event follows.
 
 <!--more-->
 
-## Judged the winners
+Many thanks again to StyleTech (a local employer of our students) who bought us all some pizza, which is nice.
 
-![alt text](/img/190406event/parsenips.png "The ParseNips")
+We tried a bit of an experiment with the competition aspect this time around. Rather than having explicit judging by a panel of roving judges we instead had all of the teams present their games to everyone else. A sort of celebration of everyone's achievements and experience over the weekend. I rather liked it.
 
-We decided to try something different with the judging this time to try and more explicitly recognise the contributions of the different disciplines: audio, visual, and technical. So we had the judges (a team of celebrity judges from local employer StyleTech, who were also kind enough to sponsor our pizza) select the top game in each of those categories.   
-
-As it happens, it was a clean sweep with the team "Parse(Nips);" winning in every category with their game The Last Straw (https://parse-nips.itch.io/last-straw). Their Three Things were Slave, Follow, and Paradox, so naturally they went for a time-traveling scarecrow bent on vengeance!  
-
-The Parse(Nips); are multi game jam veterans who I have been excited to see develop their skills and team effectiveness over several years now. Congratulations to them for a delightful game.
+That session also facilitated the remaining competitive element where everyone was able to rate everyone else's games via the itch.io submissions.
 
 ## People's Choice
 
-![alt text](/img/190406event/takingthehiss.png "Taking the Hiss!")
+![alt text](/img/191116event/winners.png "Double Booked")
 
-In addition to the judged categories, we also ran a People's Choice award. Each of the teams could have a look at (and try) all of the games that were made at the weekend and rate them. The Last Straw did well, achieving second place, but the winners of the People's Choice were the "Arduino Assassins" with their game Taking the Hiss (https://cssjhp.itch.io/taking-the-hisss).  
+The ratings mechanism remained open for a week after the event with a total of 57 ratings being made.
 
-This father-son team took their words Taking, Snake, and Race, and true to their team name they developed a game based around an Arduino microcontroller board. In this physical game you had to navigate the controller around the pipe without touching it. This is a classic electronic game that many may remember from days gone by, but this version was taken to another level. Also following the pipe is the snake, a brightly coloured LED track, that starts off slow and gets faster as the levels increase. Touch the pipe and the snake leaps forward. You have to beat the snake to the end to progress on to the next level.  
+Slightly awkwardly, Pixel Cats by Spooky Elephant (my own team), was the highest rated game. It combined a number of elements including an Arduino powered pixel display (more details here: https://davidparkerdr.itch.io/pixel-cats).
 
-It was amazing to see this take shape over the weekend. It is a genuine physical presence and viscerally fun to play.
+In the interests of propriety, we will move to the next ranked entry (very close behind) was the Parse(Nips); with their game Double Booked. This continues a very successful run for them having placed top in previous events. Congratulations to them, and please can they get in touch to collect some prize t-shirts. Their game was a rythym style game similar to the likes of Guitar Hero with some nice novelties thrown in. They even had a level editor. You can actually have a go through the powers of Unity and WebGL at their Itch site (https://parse-nips.itch.io/double-booked).
+
 
 ## itch.io
 
 There is more than that though. We used the itch.io platform to manage the People's Choice vote and leave a showcase of the magnificent games that were made. It is worth checking them all out, and you can do that here (https://itch.io/jam/three-thing-game-november-2019).
 
- ## Next ti
+ ## Next time
 
 The next Three Thing Game will be around March 2020 (dates pending). I can't wait!
