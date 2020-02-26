@@ -1,6 +1,6 @@
 ---
 title: Registration open! Again
-date: 2019-10-21
+date: 2020-10-21
 tags: ["threethinggame", "registration", "announcement"]
 ---
 ![alt text](/img/191116event/event.png "Save the date")
@@ -19,11 +19,9 @@ Over the years teams from all years of study have made some great stuff, some of
 
 I am very pleased to invite our alumni to come play with us. Many of our former students are Three Thing Game veterans and it would be great to see them again. You are very welcome to come with preformed teams (getting the band back together perhaps) or go stag and see who else comes. Also if you want to have some time to talk to the students in your professional capacity (maybe you want to entice them to your company) then you are welcome to do that also. You won’t have access to the canvas files below, but if you are interesting to taking part in any capacity, then please get in touch.  
 
-## Change of Pace
+## Celebration
 
-Something we are going to try this time is to have more of a celebration of everyone's efforts. To that end we won't be having explicit judging (i.e. a team of judges shortlisting and the selecting winners).
-
-In place of that, we will spend the time that was taken up by judging with having all of the teams (that want to) showcasing their work to all of the participants. So we will down tools at the usual 1500 on Sunday and transfer to the lecture room where each of the teams can present the video that they have made of their game.
+We will spend time having all of the teams (that want to) showcasing their work to all of the participants. So we will down tools at the usual 1500 on Sunday and transfer to the lecture room where each of the teams can present the video that they have made of their game.
 
 Don't worry though. For those seeking Judgment, the scrutiny of your peers will still be available for prize and pride in the form of the People's Choice.
 
@@ -31,11 +29,11 @@ Don't worry though. For those seeking Judgment, the scrutiny of your peers will 
 
 I am glad you asked. First thing is to put the date in your diary. 
 
-Remember, remember the (weekend of the 16th and 17th) of November game making, three things, the lot. I see no reason why Game Jam season should ever be forgot.
+Remember, remember the (weekend of the 21st and 22nd) of March game making, three things, the lot. I see no reason why Game Jam season should ever be forgot.
 
-Form teams! Generally speaking, you want to have a maximum of 5 people in your team. Under the pressure of 24 hours it can be very difficult to integrate the efforts of large numbers of people. Even 5 is pushing it a little. You can register online here: https://forms.gle/esuB9AKMQef86pJT8.  
+Form teams! Generally speaking, you want to have a maximum of 5 people in your team. Under the pressure of 24 hours it can be very difficult to integrate the efforts of large numbers of people. Even 5 is pushing it a little. You can register online here: https://forms.gle/netTgLXc3iE2gcgk6.  
 
-Registration will close on Wednesday 13th November so please get your registration forms to me before then.
+Registration will close on Wednesday 18th March so please get your registration forms to me before then.
 
 There are a limited number of places as everyone needs to be able to fit in the big lab and these are on a first come first served basis.
 
@@ -43,7 +41,7 @@ If you would like to take part but can’t form a team then you can go stag and 
 
 ## itch.io
 
-I would like to try out itch.io for hosting some of the bits and bobs for the games this year. So I have set up a jam site there which is at the end of this link: https://itch.io/jam/three-thing-game-november-2019. Using this site you can host the games that you make, including screenshots, videos, and playable demos etc. This will be neat for disseminating your excellent efforts.
+I would like to try out itch.io for hosting some of the bits and bobs for the games this year. So I have set up a jam site there which is at the end of this link: https://itch.io/jam/three-thing-game-march-2020. Using this site you can host the games that you make, including screenshots, videos, and playable demos etc. This will be neat for disseminating your excellent efforts.
 
 
 ## Finding teams
@@ -54,15 +52,15 @@ https://discord.gg/QM4turg
 
 There is a room in there called '#looking for help' where you may consider putting things like 'looking for a digital artist/musician/programmer to join our team' so we can properly integrate some amazing diverse skillset teams.
 
-In addition to this we are going to try something new. On **Wednesday 6th November at 1300 in LTA in the Robert Blackburn building** we are having a get together of all the disciplines for a mingle and team forming opportunity. This will be a great chance to level up your team's skills. Need an artist, musician, or programmer? This is the place to come! 
+In addition to this we are going to try something new. On **Wednesday 18th March at 1300 in LTA in the Robert Blackburn building** we are having a get together of all the disciplines for a mingle and team forming opportunity. This will be a great chance to level up your team's skills. Need an artist, musician, or programmer? This is the place to come! 
 
 ## When do I get my words?
 
-Excellent question. On **Wednesday 13rd November at 1300 in LTA in the Robert Blackburn building**. So I guess that you probably want to remember that as well.
+Excellent question. On **Wednesday 18th March at 1300 in LTA in the Robert Blackburn building**. So I guess that you probably want to remember that as well.
 
 ## What about on the day?
 
-At **1000 Saturday 16th November** we will kick off in the **Fenner 052/65 Computer Lab**. You may have allocated places depending on your team size.
+At **1000 Saturday 21st March** we will kick off in the **Fenner 052/65 Computer Lab**. You may have allocated places depending on your team size.
 
 ## My computer is amazing, can I bring it?
 
@@ -70,19 +68,19 @@ Yes you can, but it is wholly your responsibility. It is worth noting that there
 
 ## When can I go home?
 
-The celebration of achievements will take place at **1500 on Sunday 17th November**. You will have 3 minutes to pitch your game and show a video of your game. This will take place in **Robert Blackburn Lecture Theatre A**. The teams should also be prepared to answer questions about their game.
+The celebration of achievements will take place at **1500 on Sunday 22nd March**. You will have 3 minutes to pitch your game and show a video of your game. This will take place in **Robert Blackburn Lecture Theatre A**. The teams should also be prepared to answer questions about their game.
 And, to answer the actual question, it should all be done and dusted by **1700**.
 
 | Date           | Event           |
 | -------------- |:---------------:|
-| Wednesday 23rd October | Registration opens |
-| Wednesday 13th November | Registration closes |
-| Wednesday 6th November | Team Forming Event - RBB_LTA |
-| Wednesday 13th November 1300 | Thing Distribution Event – RBB_LTA |
-| Saturday 16th November 1000 | Three Thing Kick-off – Fenner 052/65 |
-| Saturday 16th November 1900 | Mingle, see each other’s games |
-| Saturday 16th November 2100 | Close for the night; go home, sleep, shower |
-| Sunday 17th November 1000 | Open again, come back fresh and breezy |
-| Sunday 17th November 1500 | Presentations begin |
-| Sunday 17th November 1700 | Go away. |
+| Wednesday 26th February | Registration opens |
+| Wednesday 18th March | Registration closes |
+| Wednesday 18th March | Team Forming Event - RBB_LTA |
+| Wednesday 13th March 1300 | Thing Distribution Event – RBB_LTA |
+| Saturday 21st March 1000 | Three Thing Kick-off – Fenner 052/65 |
+| Saturday 21st March 1900 | Mingle, see each other’s games |
+| Saturday 21st March 2100 | Close for the night; go home, sleep, shower |
+| Sunday 22nd March 1000 | Open again, come back fresh and breezy |
+| Sunday 22nd March 1500 | Presentations begin |
+| Sunday 22nd March 1700 | Go away. |
 
