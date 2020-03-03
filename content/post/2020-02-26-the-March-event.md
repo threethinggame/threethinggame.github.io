@@ -1,9 +1,9 @@
 ---
 title: Registration open! Again
-date: 2020-10-21
+date: 2020-03-03
 tags: ["threethinggame", "registration", "announcement"]
 ---
-![alt text](/img/191116event/event.png "Save the date")
+![alt text](/img/200321event/event.png "Save the date")
 
 Registration is now open!
 
