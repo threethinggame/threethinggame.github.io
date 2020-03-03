@@ -52,11 +52,9 @@ https://discord.gg/QM4turg
 
 There is a room in there called '#looking for help' where you may consider putting things like 'looking for a digital artist/musician/programmer to join our team' so we can properly integrate some amazing diverse skillset teams.
 
-In addition to this we are going to try something new. On **Wednesday 18th March at 1300 in LTA in the Robert Blackburn building** we are having a get together of all the disciplines for a mingle and team forming opportunity. This will be a great chance to level up your team's skills. Need an artist, musician, or programmer? This is the place to come! 
-
 ## When do I get my words?
 
-Excellent question. On **Wednesday 18th March at 1300 in LTA in the Robert Blackburn building**. So I guess that you probably want to remember that as well.
+Excellent question. On **Wednesday 18th March at 1300 in Lecture Theatre Large in the Applied Science building**. So I guess that you probably want to remember that as well.
 
 ## What about on the day?
 
@@ -75,8 +73,7 @@ And, to answer the actual question, it should all be done and dusted by **1700**
 | -------------- |:---------------:|
 | Wednesday 26th February | Registration opens |
 | Wednesday 18th March | Registration closes |
-| Wednesday 18th March | Team Forming Event - RBB_LTA |
-| Wednesday 13th March 1300 | Thing Distribution Event – RBB_LTA |
+| Wednesday 18th March 1300 | Thing Distribution Event – AppSci LTL |
 | Saturday 21st March 1000 | Three Thing Kick-off – Fenner 052/65 |
 | Saturday 21st March 1900 | Mingle, see each other’s games |
 | Saturday 21st March 2100 | Close for the night; go home, sleep, shower |
