@@ -1,21 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Three Thing Game</title>
     <link>https://threethinggame.com/tags/</link>
     <description>Recent content in Tags on Three Thing Game</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://threethinggame.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2018</title>
-      <link>https://threethinggame.com/tags/2018/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <title>announcement</title>
+      <link>https://threethinggame.com/tags/announcement/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://threethinggame.com/tags/2018/</guid>
+      <guid>https://threethinggame.com/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>threethinggame</title>
+      <link>https://threethinggame.com/tags/threethinggame/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/threethinggame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>registration</title>
+      <link>https://threethinggame.com/tags/registration/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/registration/</guid>
       <description></description>
     </item>
     
@@ -29,79 +47,16 @@
     </item>
     
     <item>
-      <title>Announcement</title>
-      <link>https://threethinggame.com/tags/announcement/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <title>winners</title>
+      <link>https://threethinggame.com/tags/winners/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://threethinggame.com/tags/announcement/</guid>
+      <guid>https://threethinggame.com/tags/winners/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dates</title>
-      <link>https://threethinggame.com/tags/dates/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/dates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>https://threethinggame.com/tags/events/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fizzyo</title>
-      <link>https://threethinggame.com/tags/fizzyo/</link>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/fizzyo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hull2017</title>
-      <link>https://threethinggame.com/tags/hull2017/</link>
-      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/hull2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industry</title>
-      <link>https://threethinggame.com/tags/industry/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midichlorians</title>
-      <link>https://threethinggame.com/tags/midichlorians/</link>
-      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/midichlorians/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Montage</title>
-      <link>https://threethinggame.com/tags/montage/</link>
-      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/montage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
+      <title>music</title>
       <link>https://threethinggame.com/tags/music/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
       
@@ -110,34 +65,7 @@
     </item>
     
     <item>
-      <title>Registration</title>
-      <link>https://threethinggame.com/tags/registration/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/registration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talk</title>
-      <link>https://threethinggame.com/tags/talk/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Threethinggame</title>
-      <link>https://threethinggame.com/tags/threethinggame/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/threethinggame/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
+      <title>video</title>
       <link>https://threethinggame.com/tags/video/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
       
@@ -146,11 +74,83 @@
     </item>
     
     <item>
-      <title>Winners</title>
-      <link>https://threethinggame.com/tags/winners/</link>
-      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      <title>2018</title>
+      <link>https://threethinggame.com/tags/2018/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://threethinggame.com/tags/winners/</guid>
+      <guid>https://threethinggame.com/tags/2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dates</title>
+      <link>https://threethinggame.com/tags/dates/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/dates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://threethinggame.com/tags/events/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>industry</title>
+      <link>https://threethinggame.com/tags/industry/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://threethinggame.com/tags/talk/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midichlorians</title>
+      <link>https://threethinggame.com/tags/midichlorians/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/midichlorians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>montage</title>
+      <link>https://threethinggame.com/tags/montage/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/montage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hull2017</title>
+      <link>https://threethinggame.com/tags/hull2017/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/hull2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fizzyo</title>
+      <link>https://threethinggame.com/tags/fizzyo/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/fizzyo/</guid>
       <description></description>
     </item>
     
