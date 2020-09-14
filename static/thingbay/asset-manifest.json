@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thingbay/static/css/main.7ca84fb3.chunk.css",
-    "main.js": "/thingbay/static/js/main.06712099.chunk.js",
+    "main.js": "/thingbay/static/js/main.bb425b92.chunk.js",
     "runtime-main.js": "/thingbay/static/js/runtime-main.fd3e1f8a.js",
     "static/css/2.fb958ba7.chunk.css": "/thingbay/static/css/2.fb958ba7.chunk.css",
-    "static/js/2.eacf01e1.chunk.js": "/thingbay/static/js/2.eacf01e1.chunk.js",
+    "static/js/2.582667cb.chunk.js": "/thingbay/static/js/2.582667cb.chunk.js",
     "index.html": "/thingbay/index.html",
-    "precache-manifest.add7bd904865e4e8f86edbf68a765274.js": "/thingbay/precache-manifest.add7bd904865e4e8f86edbf68a765274.js",
+    "precache-manifest.222badfade45f779634dbe027457285a.js": "/thingbay/precache-manifest.222badfade45f779634dbe027457285a.js",
     "service-worker.js": "/thingbay/service-worker.js",
-    "static/js/2.eacf01e1.chunk.js.LICENSE": "/thingbay/static/js/2.eacf01e1.chunk.js.LICENSE",
+    "static/js/2.582667cb.chunk.js.LICENSE": "/thingbay/static/js/2.582667cb.chunk.js.LICENSE",
     "static/media/User.svg": "/thingbay/static/media/User.57ef87b8.svg",
     "static/media/arrow-left.svg": "/thingbay/static/media/arrow-left.f9a44e1c.svg",
     "static/media/LogoHeader.scss": "/thingbay/static/media/waves.2e99a728.svg"
@@ -16,8 +16,8 @@
   "entrypoints": [
     "static/js/runtime-main.fd3e1f8a.js",
     "static/css/2.fb958ba7.chunk.css",
-    "static/js/2.eacf01e1.chunk.js",
+    "static/js/2.582667cb.chunk.js",
     "static/css/main.7ca84fb3.chunk.css",
-    "static/js/main.06712099.chunk.js"
+    "static/js/main.bb425b92.chunk.js"
   ]
 }

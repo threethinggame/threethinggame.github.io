@@ -16,15 +16,16 @@ A write-up of the last Three Thing Game can be found here: https://threethinggam
 
 Looking forward to the next events? Here are the dates:
 
-November 16th - 17th 2019
-
-March 21st - 22nd 2020
+October 31st - November 1st 2020
 
 ## Music Videos
 
 Filled with Three Thing fever and can't wait? Try listening to these on repeat!
 
-https://www.youtube.com/watch?v=7zT0khm9X8E&list=PLLR3LLHiz0fUze06acCulHDxu37TCwxTv for a playlist.
+https://www.youtube.com/watch?v=LEJyvIvuZbc&list=PLLR3LLHiz0fUze06acCulHDxu37TCwxTv&index=1 for a playlist.
+
+The Rubberband Jam
+{{< youtube LEJyvIvuZbc >}}
 
 Three Thing's Comin'
 {{< youtube 7zT0khm9X8E >}}
