@@ -5,7 +5,7 @@
     <link>https://threethinggame.com/tags/</link>
     <description>Recent content in Tags on Three Thing Game</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://threethinggame.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,18 +13,36 @@
     <item>
       <title>announcement</title>
       <link>https://threethinggame.com/tags/announcement/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://threethinggame.com/tags/announcement/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>music</title>
+      <link>https://threethinggame.com/tags/music/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>threethinggame</title>
       <link>https://threethinggame.com/tags/threethinggame/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://threethinggame.com/tags/threethinggame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://threethinggame.com/tags/video/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/video/</guid>
       <description></description>
     </item>
     
@@ -52,24 +70,6 @@
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://threethinggame.com/tags/winners/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://threethinggame.com/tags/music/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>video</title>
-      <link>https://threethinggame.com/tags/video/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/video/</guid>
       <description></description>
     </item>
     

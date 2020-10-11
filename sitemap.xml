@@ -4,32 +4,52 @@
   
   <url>
     <loc>https://threethinggame.com/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://threethinggame.com/tags/announcement/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.com/tags/music/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://threethinggame.com/post/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.com/post/2020-10-11-so-were-back/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://threethinggame.com/tags/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://threethinggame.com/post/2020-09-14-the-remote-event/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <loc>https://threethinggame.com/post/2020-10-11-the-remote-event-registration/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://threethinggame.com/tags/threethinggame/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.com/tags/video/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://threethinggame.com/post/2020-09-14-the-remote-event/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,17 +79,7 @@
   </url>
   
   <url>
-    <loc>https://threethinggame.com/tags/music/</loc>
-    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://threethinggame.com/post/2019-11-09-the-rubberband-jam/</loc>
-    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.com/tags/video/</loc>
     <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
