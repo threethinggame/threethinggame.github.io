@@ -35,8 +35,6 @@ Form teams! Generally speaking, you want to have a maximum of 5 people in your t
 
 Registration will close on Wednesday 28th October so please get your registration forms to me before then.
 
-There are a limited number of places as everyone needs to be able to fit in the big lab and these are on a first come first served basis.
-
 If you would like to take part but can’t form a team then you can go stag and be a team of one (some people have made this work very well before) or you could identify on your form that you would like to be in a team by using “need a team” as the team name on the form. We can then pool you together into teams. Where there is a will there is a way.
 
 ## itch.io
@@ -60,10 +58,6 @@ We will be trying a rather jazzy new way of allocating the three things to the t
 ## What about on the day?
 
 At **1000 Saturday 31st October** we will kick off remotely.
-
-## My computer is amazing, can I bring it?
-
-Yes you can, but it is wholly your responsibility. It is worth noting that there is a break on Saturday night until Sunday morning so the lab will not be occupied during this time. Everyone is also responsible for ensuring that the lab is left in the manner that it was found (or better). If it isn’t then it is likely that we won’t be allowed to do it again.
 
 ## When does it end?
 
