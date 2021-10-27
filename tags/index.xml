@@ -5,10 +5,24 @@
     <link>https://threethinggame.com/tags/</link>
     <description>Recent content in Tags on Three Thing Game</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://threethinggame.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>announcement</title>
+      <link>https://threethinggame.com/tags/announcement/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/announcement/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://threethinggame.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>threethinggame</title>
+      <link>https://threethinggame.com/tags/threethinggame/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://threethinggame.com/tags/threethinggame/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>results</title>
@@ -16,24 +30,6 @@
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://threethinggame.com/tags/results/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>threethinggame</title>
-      <link>https://threethinggame.com/tags/threethinggame/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/threethinggame/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>announcement</title>
-      <link>https://threethinggame.com/tags/announcement/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://threethinggame.com/tags/announcement/</guid>
       <description></description>
     </item>
     

@@ -1,257 +1,158 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://threethinggame.com/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://threethinggame.com/tags/announcement/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://threethinggame.com/post/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://threethinggame.com/tags/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://threethinggame.com/post/2021-10-27-the-hybrid-event-registration/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://threethinggame.com/tags/threethinggame/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://threethinggame.com/tags/results/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.com/tags/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2021-04-13-the-easter-event/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.com/tags/threethinggame/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://threethinggame.com/tags/announcement/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2021-03-08-the-easter-event-registration/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/music/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2020-10-11-so-were-back/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2020-10-11-the-remote-event-registration/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/video/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2020-09-14-the-remote-event/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/registration/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2020-02-26-the-march-event/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/2019/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2019-11-16-rubberband-results/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/winners/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2019-11-09-the-rubberband-jam/</loc>
     <lastmod>2019-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2019-10-21-the-november-event/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2019-04-06-three-things-came/</loc>
     <lastmod>2019-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2019-04-01-three-things-comin/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2019-03-06-the-april-event/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/2018/</loc>
     <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-11-06-autumn-results/</loc>
     <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-10-01-the-autumn-event/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-10-01-the-three-thing-game/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/dates/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/events/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-05-25-upcoming-events/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-05-05-the-event/</loc>
     <lastmod>2018-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/industry/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/talk/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-05-02-unity-guest-speaker-followup/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-04-10-unity-guest-speaker/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/midichlorians/</loc>
     <lastmod>2018-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-03-18-may-the-fourth/</loc>
     <lastmod>2018-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-03-14-cant-stop-the-coding/</loc>
     <lastmod>2018-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2018-03-09-the-midichlorian-event/</loc>
     <lastmod>2018-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2017-11-06-video-montage/</loc>
     <lastmod>2017-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/montage/</loc>
     <lastmod>2017-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2017-11-04-the-culture-event/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/hull2017/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2017-10-08-last-three-thing-game/</loc>
     <lastmod>2017-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/tags/fizzyo/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2017-05-12-the-fizzyo-event/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/post/2017-04-21-three-thingian-gamesody/</loc>
     <lastmod>2017-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/page/08140/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/page/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://threethinggame.com/page/about/</loc>
   </url>
-  
 </urlset>
