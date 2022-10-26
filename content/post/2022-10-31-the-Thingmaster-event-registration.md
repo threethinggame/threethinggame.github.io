@@ -3,7 +3,7 @@ title: The Thingmaster Event Registration Open
 date: 2022-10-26
 tags: ["threethinggame", "announcement"]
 ---
-![alt text](/img/2221126event/event.png "Save the date")
+![alt text](/img/221126event/event.png "Save the date")
 
 Registration is now open!
 
