@@ -10,19 +10,25 @@ For those not in the know, Three Thing Game is a programming Game Jam run over (
 
 Over the years teams from all years of study have made some great stuff, some of which has even been published in various app stores. So you should definitely not be discouraged from taking part in your first year. This is an excellent opportunity to put your skills in to practice, to hone your craft. This is also one of those ‘extra-curricular’ activities that help to distinguish you in the eyes of potential employers from the hundreds of other people that will be graduating from here at the same time. 
 
-A write-up of the last Three Thing Game can be found here: https://threethinggame.com/post/2019-04-06-three-things-came/
+A write-up of the last Three Thing Game can be found here: https://threethinggame.com/post/2021-04-13-the-easter-event/
 
 ## Upcoming events
 
 Looking forward to the next events? Here are the dates:
 
-October 31st - November 1st 2020
+End of November 2022
 
 ## Music Videos
 
 Filled with Three Thing fever and can't wait? Try listening to these on repeat!
 
-https://www.youtube.com/watch?v=LEJyvIvuZbc&list=PLLR3LLHiz0fUze06acCulHDxu37TCwxTv&index=1 for a playlist.
+https://www.youtube.com/watch?v=w-m_15MBRjM&list=PLLR3LLHiz0fUze06acCulHDxu37TCwxTv&index=1 for a playlist.
+
+Thingmaster
+{{<youtube w-m_15MBRjM>}}
+
+So We're Back
+{{< youtube LXn3ztVjqWQ >}}
 
 The Rubberband Jam
 {{< youtube LEJyvIvuZbc >}}
