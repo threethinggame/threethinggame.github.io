@@ -32,7 +32,7 @@ The weekend of 26th and 27th November 2022.
 
 Form teams! Generally speaking, you want to have a maximum of 5 people in your team. Under the pressure of 24 hours it can be very difficult to integrate the efforts of large numbers of people. Even 5 is pushing it a little. You can register online here: https://forms.gle/b4eJNxZU769B3FHF7  
 
-Registration will close on Friday 12th November so please get your registration forms to me before then.
+Registration will close on Friday 25th November so please get your registration forms to me before then.
 
 If you would like to take part but can’t form a team then you can go stag and be a team of one (some people have made this work very well before) or you could identify on your form that you would like to be in a team by using “need a team” as the team name on the form. We can then pool you together into teams. Where there is a will there is a way.
 
