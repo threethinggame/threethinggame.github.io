@@ -3,7 +3,7 @@ title: The November Event Registration Open
 date: 2023-11-13
 tags: ["threethinggame", "announcement"]
 ---
-![alt text](/img/231113event/event.png "Save the date")
+![alt text](/img/231125event/event.png "Save the date")
 
 Registration is now open!
 
