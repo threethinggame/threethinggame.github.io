@@ -19,7 +19,7 @@ You can check out all the games here: https://itch.io/jam/three-thing-game-octob
 
 ![alt text](/img/241012event/winners.jpg "Live Laugh Lovers")
 
-The crowd ranked the submissions and coming out on top was the team Live Laugh Lovers. The made their game "Would You Love Fries With That?" using the Monogame framework, and backed by their three things: Burger King, neon, and swimming pool. The crowd appreciated the humourous, quirky, narrative fun. 
+The crowd ranked the submissions and coming out on top was the team Live Laugh Lovers. They made their game "Would You Love Fries With That?" using the Monogame framework, and backed by their three things: Burger King, neon, and swimming pool. The crowd appreciated the humourous, quirky, narrative fun. 
 
 A special mention also goes to the Milkybar team whose game "The Debtor's Grimoire" was rated the highest by their fellow developers.
 
